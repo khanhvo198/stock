@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2022-11-30	36.75	36.5	36.75	36.5	7600.0

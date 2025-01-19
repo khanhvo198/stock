@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2020-07-20	1.436487742	1.436487742	1.436487742	1.436487742	7083.0

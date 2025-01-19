@@ -1,0 +1,4 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2021-05-05	2.0	2.0	2.0	2.0	2500.0
+2022-08-26	2.0	2.0	2.0	2.0	1000.0
+2022-08-31	1.82	1.82	2.0	2.0	1500.0

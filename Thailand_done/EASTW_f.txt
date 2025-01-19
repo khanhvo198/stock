@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2021-01-26	9.1	9.1	9.1	9.1	4500.0

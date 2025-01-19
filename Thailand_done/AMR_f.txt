@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2021-08-02	7.4	7.4	7.4	7.4	1000.0

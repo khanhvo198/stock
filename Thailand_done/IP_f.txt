@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2021-06-25	5.07692625	5.07692625	5.07692625	5.07692625	10887.0

@@ -1,0 +1,10 @@
+mplcursors==0.6
+pykalman==0.9.7
+filterpy==1.4.5
+voila==0.5.8
+ipython
+ipywidgets
+matplotlib
+numpy
+pandas
+plotly

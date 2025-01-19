@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2020-02-25	16.0	16.0	16.0	16.0	1000.0

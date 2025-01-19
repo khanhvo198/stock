@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2019-05-15	1.2	1.2	1.2	1.2	50000.0

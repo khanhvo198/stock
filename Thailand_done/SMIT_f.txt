@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2022-06-01	5.25	5.25	5.25	5.25	149900.0

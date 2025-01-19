@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2021-12-23	9.3	9.3	9.4	9.4	14000.0

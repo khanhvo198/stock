@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2018-05-17	16.4	15.6	16.4	15.6	3000.0

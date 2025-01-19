@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2020-10-26	0.63	0.63	0.67	0.67	30000.0

@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2019-09-18	0.3	0.3	0.3	0.3	133.0

@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2020-05-28	10.8	10.8	10.8	10.8	1000.0

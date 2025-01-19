@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2021-06-29	2.5	2.5	2.5	2.5	100.0

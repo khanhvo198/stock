@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2021-07-12	11.404960959	8.264464463	11.404960959	11.157027025	9316.0

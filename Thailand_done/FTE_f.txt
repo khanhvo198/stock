@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2021-04-23	1.75454563	1.75454563	1.75454563	1.75454563	3299.0

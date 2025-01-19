@@ -1,0 +1,2 @@
+Date	Price Open	Price Low	Price High	Price Close	Volume
+2022-07-07	1.6	1.6	1.6	1.6	2400.0
